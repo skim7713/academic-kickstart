@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sanghoon Kim
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Political Science, University of Illinois
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign. I received my BA in Political Science and Economics and an MA in Political Science from Korea University. I began my PhD program at the University of Illinois in 2016. My research interest focuses on legacy parties in new democracies and their effects on voting behavior.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Authoritarian nostalgia
-- Post-authoritarian democracies
-- Comparative politics
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: MA in Political Science
-    institution: Korea University
-    year: 2015
-  - course: BA in Political Science; Economics
-    institution: Korea University
-    year: 2011
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,21 +44,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "sk12@illinois.edu".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/skim7713
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
