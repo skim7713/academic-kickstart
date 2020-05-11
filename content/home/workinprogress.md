@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-“Authoritarian Legacy Parties and Corruption Voting”
+<i class="far fa-file-alt"></i> Authoritarian Legacy Parties and Corruption Voting
 
 “A limited dictator’s toolkit”
 
