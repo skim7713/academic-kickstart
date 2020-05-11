@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<i class="fas fa-book",padding_right="3"></i> Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies.
+<i class="fas fa-book"></i><padding_right="3"> Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies.
