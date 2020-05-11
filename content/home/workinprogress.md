@@ -67,8 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-<i class="far fa-file-alt"></i> Authoritarian Legacy Parties and Corruption Voting
+<i class="far fa-file-alt"></i>  Authoritarian Legacy Parties and Corruption Voting
 
-“A limited dictator’s toolkit”
+<i class="far fa-file-alt"></i>  A limited dictator’s toolkit
 
-“Religiosity and economic voting in Indonesia” with Matthew Winters
+<i class="far fa-file-alt"></i> Religiosity and economic voting in Indonesia with Matthew Winters
