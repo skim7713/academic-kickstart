@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign. I received my BA in Political Science and Economics and an MA in Political Science from Korea University. I began my PhD program at the University of Illinois in 2016. My research interest focuses on legacy parties in new democracies and their effects on voting behavior.
+bio: 
 
 interests:
 - Authoritarian nostalgia
@@ -67,3 +67,4 @@ user_groups:
 - Visitors
 ---
 
+I am a PhD candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign. I received my BA in Political Science and Economics and an MA in Political Science from Korea University. I began my PhD program at the University of Illinois in 2016. My research interest focuses on legacy parties in new democracies and their effects on voting behavior.
