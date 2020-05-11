@@ -75,3 +75,15 @@ subtitle = ""
  css_class = ""
 +++
 
+I received the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
+
+## Instructor
+- PS241 Comparative Politics in Developing Nations (Online, Spring 2020)
+- GLBL296 Global Politics of Intellectual Property Protection (Spring 2019)
+- PS100 Intro to Political Science (Online, Spring 2019)
+
+## Teaching Assistant
+- PS241 Comparative Politics in Developing Nations (Spring 2018, Fall 2018)
+- PS220 Intro to Public Policy (Fall 2017)
+- PS322 Law and Public Policy (Spring 2017)
+- PS321 Principles of Public Policy (Fall 2016)
