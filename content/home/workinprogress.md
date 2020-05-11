@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-
+{{< icon name="file-alt" pack="far" >}}
 <i class="far fa-file-alt"></i> "Authoritarian Legacy Parties and Corruption Voting"
 
 <i class="far fa-file-alt"></i> A limited dictator’s toolkit
