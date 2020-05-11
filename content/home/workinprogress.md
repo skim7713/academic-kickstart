@@ -67,9 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< icon name="file-alt" pack="far" >}}
-<i class="far fa-file-alt"></i> "Authoritarian Legacy Parties and Corruption Voting"
+{{< icon name="file-alt" pack="far" >}} Authoritarian Legacy Parties and Corruption Voting
 
-<i class="far fa-file-alt"></i> A limited dictator’s toolkit
+{{< icon name="file-alt" pack="far" >}} A limited dictator’s toolkit
 
-<i class="far fa-file-alt"></i> Religiosity and economic voting in Indonesia with Matthew Winters
+{{< icon name="file-alt" pack="far" >}} Religiosity and economic voting in Indonesia with Matthew Winters
