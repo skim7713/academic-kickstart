@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign. I received my BA in Political Science and Economics and an MA in Political Science from Korea University. I began my PhD program at the University of Illinois in 2016. My research interest focuses on authoritarian nostalgia and related political behavior in post-authoritarian democracies.
+I am a PhD candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign. I received my BA in Political Science and Economics and an MA in Political Science from Korea University. I began my PhD program at the University of Illinois in 2016. My research interest focuses on authoritarian nostalgia and related political behavior in post-authoritarian democracies. 
