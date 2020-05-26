@@ -61,10 +61,10 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ # css_style = ""
  
  # CSS class.
- css_class = ""
+ # css_class = ""
 +++
 
 {{< icon name="book" pack="fas" >}} Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies.
