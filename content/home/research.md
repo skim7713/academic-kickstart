@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Dissertation Project"
-subtitle = "![Figure](/content/fullmodel2.jpg)"
+subtitle = "![Figure](fullmodel2.jpg)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
