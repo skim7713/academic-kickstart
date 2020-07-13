@@ -1,6 +1,6 @@
 title: "Paper Title Number 1"
-collection: research
-permalink: /research/research1
+collection: Research
+permalink: /_research/research1
 excerpt: 'This paper is about authoritarian nostalgia.'
 date: 2020-07-13
 venue: 'Journal 1'
