@@ -191,7 +191,7 @@ plugins_scss = ["widgets","contents"]
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+[research]
   # Views for associated content.
   #   1: List
   #   2: Compact
