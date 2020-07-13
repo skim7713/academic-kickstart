@@ -1,5 +1,6 @@
 ---
 title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
+subtitle: (Under review)
 collection: Research
 permalink: /research/project1
 excerpt: ''
