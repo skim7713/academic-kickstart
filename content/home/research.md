@@ -12,7 +12,7 @@ subtitle = "![Figure](fullmodel.png)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "research"
+  page_type = "dissertation"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
