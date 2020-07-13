@@ -27,6 +27,8 @@ interests:
 
 education:
   courses:
+  - course: PhD Candidate in Political Science
+    institution: University of Illinois at Urbana-Champaign
   - course: MA in Political Science
     institution: Korea University
     year: 2015
