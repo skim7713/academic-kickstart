@@ -1,5 +1,5 @@
 ---
-title: Reearch
+title: Research
 
 # View.
 #   1 = List
