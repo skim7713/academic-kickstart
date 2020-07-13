@@ -1,16 +1,10 @@
-title: Example Page 1
-linktitle: Tips 1-2
-toc: true
-type: docs
-date: "2019-05-05T00:00:00Z"
-draft: false
-menu:
-  example:
-    parent: Research
-    weight: 1
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+title: "Paper Title Number 1"
+collection: research
+permalink: /research/research1
+excerpt: 'This paper is about authoritarian nostalgia.'
+date: 2020-07-13
+venue: 'Journal 1'
+paperurl: 
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-Content...
+This paper is about the number 1. The number 2 is left for future work.
