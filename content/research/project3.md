@@ -4,8 +4,9 @@ collection: Research
 permalink: /research/project3
 excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Journal 3'
 paperurl: 
 citation:
+weight=30
 ---
 
