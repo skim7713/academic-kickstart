@@ -3,7 +3,7 @@ title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
 collection: Research
 permalink: /research/project1
 excerpt: ''
-date: 2009-10-01
+date: 2020-07-01
 venue: 'Journal 1'
 paperurl: 
 citation:
