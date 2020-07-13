@@ -67,8 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< icon name="file-alt" pack="far" >}} Authoritarian Legacies and Partisan Bias in Performance-based Voting
 
-{{< icon name="file-alt" pack="far" >}} A limited dictator’s toolkit
-
-{{< icon name="file-alt" pack="far" >}} Religiosity and economic voting in Indonesia with Matthew Winters
