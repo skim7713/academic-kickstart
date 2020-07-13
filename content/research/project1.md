@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies."
 collection: Research
 permalink: /research/project1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
