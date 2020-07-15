@@ -1,4 +1,3 @@
-widget = "publications" 
 ---
 
 title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
