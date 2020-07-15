@@ -6,7 +6,7 @@ authors:
 collection: Research
 permalink: /research/project1
 publication_types: ["3"]
-date: Jul, 2020
+date: 2020-07-01
 paperurl: 
 citation: 'Kim, Sanghoon. 2020. &quot;Authoritarian Legacies and Partisan Bias in Performance-based Voting.&quot; <i> Under review </i>'
 ---
