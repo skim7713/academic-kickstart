@@ -39,6 +39,13 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 4
   
+ # List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 0
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
