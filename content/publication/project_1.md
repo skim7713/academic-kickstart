@@ -1,6 +1,6 @@
 ---
 title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
-author: 
+authors: 
 - admin
 collection: Research
 permalink: /publication/project1
