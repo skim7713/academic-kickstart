@@ -11,7 +11,7 @@ paperurl:
 citation:
 publication: 
 publication_types: ["3"]
-publishDate:''
+
 paperurl: 
 ---
 
