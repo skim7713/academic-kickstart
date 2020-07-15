@@ -6,12 +6,12 @@ authors:
 - Matthew Winters
 permalink: /research/project2
 excerpt: ''
-date:''
+
 paperurl: 
 citation:
 publication: 
 publication_types: ["3"]
-
+publishDate:''
 paperurl: 
 ---
 
