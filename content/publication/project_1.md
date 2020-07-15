@@ -1,7 +1,6 @@
 ---
 title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
-subtitle: (Under review)
-author: "Kim, Sanghoon"
+author: Kim, Sanghoon
 collection: Research
 permalink: /publication/project1
 excerpt: ''
