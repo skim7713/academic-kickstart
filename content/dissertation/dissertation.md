@@ -5,7 +5,7 @@ permalink: /dissertation/project1
 excerpt: ''
 date: 2020-07-17
 publication_type: ["3"]
-##citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+##citation: 
 ---
 ![Figure](/content/home/fullmodel.png)
 
