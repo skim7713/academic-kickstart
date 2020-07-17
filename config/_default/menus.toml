@@ -9,7 +9,7 @@
   weight = 10
 [[main]]
   name = "Dissertation Project"
-  url = "#featured"
+  url = "#dissertation"
   weight = 15
 [[main]]
   name = "Research"
