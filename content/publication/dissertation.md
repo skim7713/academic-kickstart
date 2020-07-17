@@ -5,7 +5,7 @@ permalink: /dissertation/project1
 excerpt: ''
 date: 2020-07-17
 publication_type: ["3"]
-featured: true
+featured = true
 ##citation: 
 ---
 ![Figure](/content/home/fullmodel.png)
