@@ -1,6 +1,6 @@
 ---
 title: "Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies."
-collection: dissertation
+collection: Dissertation Project
 
 permalink: /dissertation/project1
 excerpt: ''
