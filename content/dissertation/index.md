@@ -11,7 +11,7 @@ view: 4
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: ""
-  image: ""
+  image: "/content/home/fullmodel.png"
 ---
 ## Research 1
 Research 1 description here
