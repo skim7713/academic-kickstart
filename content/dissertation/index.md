@@ -7,7 +7,7 @@ title: Dissertation
 #   3 = Card
 #   4 = Citation
 view: 4
-
+type: "widget_page"
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: ""
