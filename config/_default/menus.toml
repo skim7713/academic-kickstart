@@ -22,8 +22,8 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Test"
+  url = "#test"
   weight = 40
 
 #[[main]]
