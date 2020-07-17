@@ -1,3 +1,4 @@
+featured = true
 ---
 title: "Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies."
 collection: dissertation
@@ -5,7 +6,7 @@ permalink: /dissertation/project1
 excerpt: ''
 date: 2020-07-17
 publication_type: ["3"]
-featured = true
+
 ##citation: 
 ---
 ![Figure](/content/home/fullmodel.png)
