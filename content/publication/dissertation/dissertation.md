@@ -18,6 +18,6 @@ publication_types: ["7"]
 header:
   image: "image.png"
   caption: "header"
-  height: "500px"
+  height: "100px"
 
 ---
