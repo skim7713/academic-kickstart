@@ -48,7 +48,7 @@ subtitle = ""
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "3"
+publication_types = "3"
  
  # List format.
 #   0 = Simple
