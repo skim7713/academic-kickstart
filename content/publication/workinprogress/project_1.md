@@ -5,7 +5,7 @@ authors:
 - admin
 collection: Research
 permalink: /research/project1
-publication_types: ["3"]
+publication_type: ["3"]
 date: 2020-07-01
 paperurl: 
 tags: ["authoritarian legacies", "performance-based voting"]
