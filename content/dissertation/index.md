@@ -1,5 +1,8 @@
 ---
-title: Dissertation
+title: "Dissertation Page"  # Add a page title.
+summary: "Hello!"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 
 # View.
 #   1 = List
@@ -7,11 +10,6 @@ title: Dissertation
 #   3 = Card
 #   4 = Citation
 view: 4
-type: "widget_page"
-# Optional header image (relative to `static/img/` folder).
-header: 
-  caption: ""
-  image: "/content/home/fullmodel.png"
+
 ---
-## Research 1
-Research 1 description here
+
