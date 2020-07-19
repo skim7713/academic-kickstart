@@ -16,7 +16,7 @@ date: 2020-07-17
 publication_types: ["7"]
 
 header:
-  image: "image.jpeg"
+  image: "image.png"
   caption: "header"
 
 ---
