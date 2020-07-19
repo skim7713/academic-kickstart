@@ -12,7 +12,7 @@ subtitle = "![Figure](fullmodel.png)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "dissertation"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -26,7 +26,7 @@ subtitle = "![Figure](fullmodel.png)"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "dissertation"
     publication_type = "3"
     author = ""
     exclude_featured = false
