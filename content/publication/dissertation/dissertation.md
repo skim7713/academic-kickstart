@@ -17,5 +17,6 @@ publication_types: ["7"]
 
 header:
   image: "image.jpeg"
+  caption: "header"
 
 ---
