@@ -5,7 +5,7 @@ permalink: /dissertation/project1
 excerpt: ''
 date: 2020-07-17
 publication_types: ["5"]
-category: "dissertation"
+category: dissertation
 view: 4
 ##citation: 
 ---
