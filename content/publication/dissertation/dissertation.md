@@ -15,7 +15,7 @@ date: 2020-07-17
 
 publication_types: ["7"]
 
-view: 4
+
 ##citation: 
 image: 
   caption: Prection for authoritarian nostalgia
