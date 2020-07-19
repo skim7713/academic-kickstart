@@ -16,7 +16,4 @@ date: 2020-07-17
 publication_types: ["7"]
 
 
-##citation: 
-image: 
-  caption: 'Prediction for authoritarian nostalgia'
 ---
