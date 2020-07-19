@@ -27,7 +27,7 @@ subtitle = "![Figure](fullmodel.png)"
   [content.filters]
     tag = ""
     category = "dissertation"
-    publication_type = "5"
+    publication_types = "5"
     author = ""
     exclude_featured = false
   
