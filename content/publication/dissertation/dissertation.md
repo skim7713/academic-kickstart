@@ -14,6 +14,8 @@ date: 2020-07-17
 # 7 = Thesis; 8 = Patent
 
 publication_types: ["7"]
-image: "image.jpeg"
+
+header:
+  image: "image.jpeg"
 
 ---
