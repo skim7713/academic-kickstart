@@ -13,7 +13,9 @@ date: "2020-07-01"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
-publication_types: ["7"]
+# publication_types: ["7"]
+
+category: "dissertation"
 
 header:
   image: "image.png"
