@@ -6,7 +6,7 @@ authors:
 - admin
 excerpt: ''
 date: 2020-07-17
-publication_types: ["6"]
+publication_types: ["5"]
 category: dissertation
 view: 4
 ##citation: 
