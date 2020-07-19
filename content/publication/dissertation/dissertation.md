@@ -18,5 +18,5 @@ publication_types: ["7"]
 
 ##citation: 
 image: 
-  caption: Prection for authoritarian nostalgia
+  caption: 'Prediction for authoritarian nostalgia'
 ---
