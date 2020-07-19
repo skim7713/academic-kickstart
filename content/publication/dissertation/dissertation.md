@@ -15,7 +15,7 @@ date: "2020-07-01"
 
 # publication_types: ["7"]
 
-category: "dissertation"
+categories: "dissertation"
 
 header:
   image: "image.png"
