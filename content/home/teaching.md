@@ -83,6 +83,7 @@ I received the A. Belden Fields Award for Excellence in Undergraduate Teaching a
 - PS100 Intro to Political Science (Online, Spring 2019)
 
 ## Teaching Assistant
+- PS231 Strategic Models (Fall 2020) 
 - PS241 Comparative Politics in Developing Nations (Spring 2018, Fall 2018)
 - PS220 Intro to Public Policy (Fall 2017)
 - PS322 Law and Public Policy (Spring 2017)
