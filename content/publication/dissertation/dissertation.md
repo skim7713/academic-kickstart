@@ -5,7 +5,7 @@ permalink: /dissertation/project1
 authors: 
 - admin
 
-abstract: Why do people feel nostalgic for a former dictator? Democratic rule has been the modal political system since the Third Wave of democratization, but the legacies of authoritarian rule and nostalgia for dictators still drive political behavior in many Third Wave democracies. Politicians often evoke the achievements of a former autocrat and parrot political rhetoric from the old regime. Voters respond with more positive sentiment towards the former dictator, romanticizing the authoritarian past, and casting votes for the successors of the dictator in the hope of restoring the authoritarian prosperity. Defining authoritarian nostalgia as positive affective attachment to the achievements from the former period of dictatorship, the theoretical argument starts with understanding authoritarian nostalgia as consisting of two distinct but related features: authoritarian nostalgia as a coping mechanism and a value orientation.
+abstract: Why do people feel nostalgic for a former dictator? Democratic rule has been the modal political system since the Third Wave of democratization, but the legacies of authoritarian rule and nostalgia for dictators still drive political behavior in many Third Wave democracies. Politicians often evoke the achievements of a former autocrat and parrot political rhetoric from the old regime. Voters respond with more positive sentiment towards the former dictator, romanticizing the authoritarian past, and casting votes for the successors of the dictator in the hope of restoring the authoritarian prosperity.
 
 date: "2020-07-01"
 # Publication type.
@@ -23,3 +23,4 @@ header:
   height: 100px
 
 ---
+
