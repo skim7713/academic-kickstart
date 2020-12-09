@@ -12,7 +12,7 @@ categories: "Research"
 paperurl: 
 citation:
 publication: 
-publication_types: ['Work in progress']
+publication_types: ['3']
 
 paperurl: 
 ---
