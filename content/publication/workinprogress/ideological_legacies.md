@@ -5,6 +5,7 @@ authors:
 - admin
 permalink: /research/project4
 excerpt: ''
+date: 2020-12-01
 
 categories: "Research"
 
