@@ -1,6 +1,7 @@
 ---
 title: "Religiosity and economic voting in Indonesia with Prof. Matthew Winters"
 collection: Research
+categories: "Research"
 permalink: /research/project2
 excerpt: ''
 date: 2020-05-01
