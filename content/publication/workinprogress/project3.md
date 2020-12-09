@@ -5,12 +5,13 @@ authors:
 - admin
 permalink: /research/project3
 excerpt: ''
+date: 2020-10-01
 
 categories: "Research"
 
-paperurl: 
-citation:
-publication: 
+# paperurl: 
+# citation:
+# publication: 
 publication_types: ["3"]
 
 ---
