@@ -7,10 +7,12 @@ authors:
 permalink: /research/project2
 excerpt: ''
 
+categories: "Research"
+
 paperurl: 
 citation:
 publication: 
-publication_types: ["3"]
+publication_types: ['Work in progress']
 
 paperurl: 
 ---
