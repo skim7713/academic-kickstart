@@ -76,8 +76,9 @@ subtitle = ""
 +++
 
 I received the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
-
+# University of Illinois at Urbana-Champaign
 ## Instructor
+- PS230 Intro to Political Research (Spring 2021)
 - PS241 Comparative Politics in Developing Nations (Online, Spring 2020)
 - GLBL296 Global Politics of Intellectual Property Protection (Spring 2019)
 - PS100 Intro to Political Science (Online, Spring 2019)
