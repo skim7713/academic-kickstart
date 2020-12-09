@@ -9,7 +9,7 @@ publication_types: ["4"]
 categories: "Research"
 date: 2020-07-01
 paperurl: 
-tags: ["authoritarian legacies", "performance-based voting"]
+tags: ["Legacies"]
 citation: 'Kim, Sanghoon. 2020. &quot;Authoritarian Legacies and Partisan Bias in Performance-based Voting.&quot; <i> Under review </i>'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
