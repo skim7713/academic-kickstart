@@ -20,5 +20,3 @@ menu_title = "#fff"
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
-dark_home_section_odd = "A5A8AA"
-dark_home_section_even = "A5A8AA"
