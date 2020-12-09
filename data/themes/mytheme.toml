@@ -5,7 +5,7 @@ name = "mytheme"
 light = true
 
 # Primary
-primary = "#5ca08e" 
+primary = "#006a4e" 
 primary_light="#13294b"
 primary_dark = "#A5A8AA"
 
