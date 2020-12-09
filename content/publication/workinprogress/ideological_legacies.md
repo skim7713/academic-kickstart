@@ -6,6 +6,8 @@ authors:
 permalink: /research/project4
 excerpt: ''
 
+categories: "Research"
+
 paperurl: 
 citation:
 publication: 
