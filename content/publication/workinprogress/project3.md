@@ -5,7 +5,9 @@ authors:
 - admin
 permalink: /research/project3
 excerpt: ''
+
 categories: "Research"
+
 paperurl: 
 citation:
 publication: 
