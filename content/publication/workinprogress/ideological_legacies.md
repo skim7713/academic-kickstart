@@ -1,5 +1,5 @@
 ---
-title: "The Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States"
+title: "The Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States (Under review)"
 collection: Research
 authors: 
 - admin
