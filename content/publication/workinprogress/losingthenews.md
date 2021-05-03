@@ -1,8 +1,9 @@
 ---
-title: "Losing the News across the US?: Newspaper Employment Concentration, News Deserts, and Implications for Political Geography (R&R)"
+title: "Losing the News across the US?: Newspaper Employment Concentration, News Deserts, and Implications for Political Geography (R\&R)"
 collection: Research
 authors: 
 - admin
+- Nikki Usher
 permalink: /research/losingthenews
 excerpt: ''
 date: 2021-04-01
