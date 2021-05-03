@@ -1,7 +1,7 @@
 ---
 title: "Open to an Authoritarian Past?: Personality, Identity, and the Politics of Authoritarian Nostalgia"
 collection: dissertation
-permalink: /dissertation/info
+permalink: /dissertation/main
 authors: 
 - admin
 
