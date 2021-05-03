@@ -3,7 +3,6 @@ title: "Losing the News across the US?: Newspaper Employment Concentration, News
 collection: Research
 authors: 
 - admin
-- Nikki Usher
 permalink: /research/losingthenews
 excerpt: ''
 date: 2021-04-01
