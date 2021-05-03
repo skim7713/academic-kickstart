@@ -3,7 +3,6 @@ title: "The Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-
 collection: Research
 authors: 
 - admin
-- Nikki Usher
 permalink: /research/project4
 excerpt: ''
 date: 2020-12-01
