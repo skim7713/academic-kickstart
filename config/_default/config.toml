@@ -20,7 +20,7 @@ copyright = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "new_theme"
 
 color_theme = "new_theme"
 
