@@ -21,9 +21,11 @@ organizations:
 bio: 
 
 interests:
-- Authoritarian nostalgia
+- Authoritarian legacies
+- Comparative political behavior
+- Personality and political attitudes
 - Post-authoritarian democracies
-- Comparative politics
+
 
 education:
   courses:
