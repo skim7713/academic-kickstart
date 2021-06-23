@@ -89,3 +89,8 @@ I received the A. Belden Fields Award for Excellence in Undergraduate Teaching a
 - PS220 Intro to Public Policy (Fall 2017)
 - PS322 Law and Public Policy (Spring 2017)
 - PS321 Principles of Public Policy (Fall 2016)
+
+## ICPSR, University of Michigan
+### Teaching Assistant
+- Causal Inference for the Social Sciences (Summer 2021)
+
