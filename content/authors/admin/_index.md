@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sanghoon Kim
+title: Sanghoon Kim-Leffingwell
 
 # Username (this should match the folder name)
 authors:
