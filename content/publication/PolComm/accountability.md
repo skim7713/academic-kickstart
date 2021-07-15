@@ -27,3 +27,10 @@ The empirical portion of this analysis relies on three main sources of data: the
 
 Ultimately, this paper does not claim to definitively answer whether news deserts will make the US a more corrupt and less democratic country, although extant theory would predict this would be the case. Rather, the aim of this paper is to complicate the normative understanding of journalism’s potential for informing the public and holding the powerful accountable. 
 
+Abernathy, P. M. (2018). The expanding news desert. Center for Innovation and Sustainability in Local Media, School of Media and Journalism, University of North Carolina at Chapel Hill.
+Chadwick, A. (2017). The hybrid media system: Politics and power. Oxford University Press.
+Hallin, D. C. (1992). The passing of the “high modernism” of American journalism. Journal of Communication, 42(3), 14–25.
+Gao, P., Lee, C., & Murphy, D. (2020). Financing dies in darkness? The impact of newspaper closures on public finance. Journal of Financial Economics, 135(2), 445-467.
+Rubado, M. E., & Jennings, J. T. (2020). Political consequences of the endangered local watchdog: newspaper decline and Mayoral elections in the United States. Urban Affairs Review, 56(5), 1327-1356.
+Schudson, M. (2018). Why journalism still matters. John Wiley & Sons.
+Zaller, J. (2003). A new standard of news quality: Burglar alarms for the monitorial citizen. Political Communication, 20(2), 109-130.
