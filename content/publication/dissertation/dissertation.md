@@ -1,5 +1,5 @@
 ---
-title: "Open to an Authoritarian Past?: Personality, Identity, and the Politics of Authoritarian Nostalgia"
+title: "Voting for Nostalgia?: Authoritarian Legacies and Political Behavior in Post-Authoritarian Democracies"
 collection: dissertation
 permalink: /dissertation/main
 authors: 
