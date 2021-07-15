@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Research - Authoritarian nostalgia"
-subtitle = ""
+title = "Research"
+subtitle = "Authoritarian nostalgia"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,8 +37,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Authoritarian legacies"
-    tag = "Legacies"
+    name = "Authoritarian nostalgia"
+    tag = "Authoritarian nostalgia"
   
   # [[content.filter_button]]
   #   name = "Other"
