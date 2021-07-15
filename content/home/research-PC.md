@@ -37,8 +37,8 @@ subtitle = "Political Communication"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Authoritarian legacies"
-    tag = "Legacies"
+    name = "Political Communication"
+    tag = "PolComm"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -67,7 +67,7 @@ subtitle = "Political Communication"
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 0
+list_format = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
