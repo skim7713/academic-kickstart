@@ -12,7 +12,7 @@ categories: "PolComm"
 
 # paperurl: 
 # citation:
-# publication: 
+publication: Political Communication
 publication_types: ["3"]
 
 ---
