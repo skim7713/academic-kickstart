@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Work in Progress"
+title = "Research - Political Communication"
 subtitle = ""
 
 [content]
@@ -47,7 +47,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Research"
+    category = "PolComm"
     publication_type = ""
     author = ""
     exclude_featured = false
