@@ -1,13 +1,13 @@
 ---
 title: "Religiosity and economic voting in Indonesia"
-collection: Research
+collection: WorkinProgress
 authors: 
 - admin
 - Matthew Winters
-permalink: /research/project2
+permalink: /workinprogress/project2
 excerpt: ''
 
-categories: "Research"
+categories: "WorkinProgress"
 
 paperurl: 
 citation:
