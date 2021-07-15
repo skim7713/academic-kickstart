@@ -1,13 +1,13 @@
 ---
 title: "Right in the past, left in the future?: partisanship and politics of nostalgia"
-collection: Research
+collection: WorkinProgress
 authors: 
 - admin
-permalink: /research/project3
+permalink: /research/ideologynostalgia
 excerpt: ''
 date: 2020-10-01
 
-categories: "Research"
+categories: "WorkinProgress"
 
 # paperurl: 
 # citation:
