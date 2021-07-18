@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-research interests:
+interests:
 - Authoritarian legacies
 - Comparative political behavior
 - Personality and political attitudes
