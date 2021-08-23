@@ -1,5 +1,5 @@
 ---
-title: "Voting for Nostalgia?: Authoritarian Legacies and Political Behavior in Post-Authoritarian Democracies"
+title: "Voting for Nostalgia?: Authoritarian Legacies, Social Identity, and Political Behavior in Post-Authoritarian Democracies"
 collection: dissertation
 permalink: /dissertation/main
 authors: 
