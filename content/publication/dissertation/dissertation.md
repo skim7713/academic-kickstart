@@ -24,7 +24,7 @@ header:
 ---
 [Link to pre-registration](https://osf.io/2uzg3)
 
-[Link to the job market paper](https://www.dropbox.com/s/f2jqnlobuey8flk/Voting%20for%20Nostalgia.pdf?dl=0)
+[Link to the job market paper](https://www.dropbox.com/s/f2jqnlobuey8flk/Voting%20for%20Nostalgia.pdf?dl=1)
 
 ## Research overview 
 More than three decades since the Third Wave of democratization, authoritarian nostalgia still drives individual political attitudes and related behavior. I investigate the underlying determinants of authoritarian nostalgia with a specific focus on its psychological and behavioral implications. I argue that the presence of authoritarian nostalgia can produce significant effects on social identity, partisan attachment, candidate preferences, and more. I test may arguments with original data collected from South Korea, Taiwan, and the United States. 
