@@ -1,5 +1,5 @@
 ---
-title: "Losing the News across the US?: Newspaper Employment Concentration, News Deserts, and Implications for Political Geography (Accepted with minor revision)"
+title: "Losing the News across the US?: Newspaper Employment Concentration, News Deserts, and Implications for Political Geography"
 collection: PolComm
 authors: 
 - admin
@@ -12,7 +12,7 @@ categories: "PolComm"
 
 # paperurl: 
 # citation:
-publication: "Political Communication"
+publication: "Political Communication (Accepted pending minor revision)"
 publication_types: ["3"]
 
 ---
