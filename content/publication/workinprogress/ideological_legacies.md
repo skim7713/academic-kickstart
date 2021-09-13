@@ -11,7 +11,7 @@ categories: "Research"
 paperurl: 
 citation:
 publication: 
-publication_types: ["3"]
+publication_types:
 
 ---
 
