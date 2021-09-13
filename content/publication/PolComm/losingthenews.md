@@ -12,7 +12,7 @@ categories: "PolComm"
 
 # paperurl: 
 # citation:
-publication:"Working Paper"
+publication: "Working Paper"
 publication_types: ["3"]
 
 ---
