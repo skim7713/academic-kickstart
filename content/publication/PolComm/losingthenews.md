@@ -12,7 +12,7 @@ categories: "PolComm"
 
 # paperurl: 
 # citation:
-publication: "Political Communication (Accepted pending minor revision)"
+publication:""
 publication_types: ["3"]
 
 ---
