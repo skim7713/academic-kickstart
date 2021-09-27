@@ -1,5 +1,5 @@
 ---
-title: "Putting the Place Back in Understanding Local News Loss: Why Where the News is Lost (and how we measure it) Matters"
+title: "Putting the Place Back in Understanding Local News Loss: Why Where the News is Lost (and how we measure it) Matters (Forthcoming)"
 collection: PolComm
 authors: 
 - admin
