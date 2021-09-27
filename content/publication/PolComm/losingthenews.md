@@ -1,18 +1,18 @@
 ---
-title: "Losing the News across the US?: Newspaper Employment Concentration, News Deserts, and Implications for Political Geography"
+title: "Putting the Place Back in Understanding Local News Loss: Why Where the News is Lost (and how we measure it) Matters"
 collection: PolComm
 authors: 
 - admin
 - Nikki Usher
 permalink: /polcom/losingthenews
 excerpt: ''
-date: 2021-04-01
+date: Forthcoming
 
 categories: "PolComm"
 
 # paperurl: 
 # citation:
-publication: "Working Paper"
+publication: "Political Communication"
 publication_types: ["3"]
 
 ---
