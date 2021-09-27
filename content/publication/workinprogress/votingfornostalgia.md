@@ -5,7 +5,7 @@ authors:
 - admin
 permalink: /research/project5
 excerpt: ''
-date: Forthcoming
+
 
 categories: "Research"
 
