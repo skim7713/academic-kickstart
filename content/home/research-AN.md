@@ -58,7 +58,7 @@ subtitle = "Authoritarian nostalgia"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 1
  
 
  
@@ -67,7 +67,7 @@ subtitle = "Authoritarian nostalgia"
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 0
+list_format = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
