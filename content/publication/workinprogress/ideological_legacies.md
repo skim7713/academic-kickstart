@@ -1,5 +1,6 @@
 ---
 title: "Alternative Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States (Under review)"
+subtitle: "Under Review"
 collection: Research
 authors: 
 - admin
