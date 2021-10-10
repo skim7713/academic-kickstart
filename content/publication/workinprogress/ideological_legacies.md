@@ -5,14 +5,14 @@ collection: Research
 authors: 
 - admin
 permalink: /research/project4
-excerpt: ''
+excerpt: 'Under Review'
 date: 2021-07-01
 categories: "Research"
 
-paperurl: 
+paperurl: https://www.dropbox.com/s/3noqf0fnce6qlp0/Kim-Leffingwell_Writing_Sample3.pdf?dl=0
 citation:
 publication: "Under Review"
-publication_types:
+publication_types: 
 
 ---
 
