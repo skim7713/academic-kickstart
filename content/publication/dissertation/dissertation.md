@@ -22,12 +22,7 @@ header:
   height: 100px
 
 ---
-[Link to pre-registration](https://osf.io/2uzg3)
 
-[Link to the job market paper](https://www.dropbox.com/s/f2jqnlobuey8flk/Voting%20for%20Nostalgia.pdf?dl=1)
-
-
-## Research overview 
 More than three decades since the Third Wave of democratization, authoritarian nostalgia still drives individual political attitudes and related behavior. I investigate the underlying determinants of authoritarian nostalgia with a special focus on political psychology and further examine this nostalgia’s behavioral implications. I argue that the presence of authoritarian nostalgia can produce significant effects on social identity, partisan attachment, candidate preferences, and more. I test may arguments with original data collected from South Korea, Taiwan, and the United States. 
 
 My dissertation project includes two main chapters that establish and test main theoretical arguments and one chapter testing the scope of these arguments. The first part theorizes that authoritarian nostalgia originates in personality traits and external threat perception. Focusing on the Big-Five personality traits, I predict how each individual predisposition contributes to a propensity for authoritarian nostalgia. Longing for an authoritarian past can also function as a response to external threats, with the past suggesting a solution to a current malaise. I examine both dispositional and situational factors in explaining which types of citizens are more or less likely to feel authoritarian nostalgia. I improve the previous research by providing a much-needed dispositional foundation for authoritarian nostalgia that transcends the boundaries of generational differences. 
@@ -38,5 +33,8 @@ In the last chapter of my dissertation, I test the scope condition of my argumen
 
 This research is funded by the Taiwan Fellowship from the Ministry of Foreign Affairs, Taiwan, Chiang Ching-kuo Foundation for International Scholarly Exchange, CEAPS Graduate Student Dissertation Travel Grant, Nelle M. Signor Graduate	Scholarship in International Relations, and Ferber & Sudman Dissertation Awards for Survey Research at the University of Illinois at Urbana-Champaign.
 
+[Link to pre-registration](https://osf.io/2uzg3)
+
+[Link to the job market paper](https://www.dropbox.com/s/f2jqnlobuey8flk/Voting%20for%20Nostalgia.pdf?dl=1)
 
 
