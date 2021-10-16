@@ -1,14 +1,14 @@
 ---
 title: "Putting the Place Back in Understanding Local News Loss: Why Where the News is Lost (and how we measure it) Matters (Forthcoming at Political Communication)"
-collection: PolComm
+collection: published
 authors: 
 - admin
 - Nikki Usher
 permalink: /polcom/losingthenews
 excerpt: ''
-date: 2021-09-11
+date: "Forthcoming"
 
-categories: "PolComm"
+categories: "published"
 
 # paperurl: 
 # citation:
