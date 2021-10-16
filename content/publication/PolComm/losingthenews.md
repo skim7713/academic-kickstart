@@ -6,7 +6,7 @@ authors:
 - Nikki Usher
 permalink: /polcom/losingthenews
 excerpt: ''
-date: "Forthcoming"
+date: "2021"
 
 categories: "published"
 
