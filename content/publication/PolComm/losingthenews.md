@@ -13,7 +13,7 @@ categories: "published"
 
 # paperurl: 
 # citation:
-publication: "Political Communication"
+publication: "*Political Communication*"
 publication_types: ["2"]
 
 ---
