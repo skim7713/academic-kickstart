@@ -5,14 +5,14 @@ authors:
 - admin
 permalink: /research/project5
 excerpt: ''
-date: ""
+date: "2021-11-07"
 show_date: "false"
 date_print: "Forthcoming"
 categories: "Research"
 
 paperurl: 
 citation:
-publication: 
+publication: "Working Paper"
 publication_types: 
 
 ---
