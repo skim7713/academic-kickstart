@@ -16,6 +16,7 @@ citation: 'Kim, Sanghoon. 2020. &quot;Authoritarian Legacies and Partisan Bias i
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
+publicaton: "Under Review"
 # publication_types: ["3"]
 
 
