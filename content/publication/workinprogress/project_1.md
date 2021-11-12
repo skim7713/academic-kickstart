@@ -7,7 +7,7 @@ collection: Research
 permalink: /research/project1
 publicaton: "Under Review"
 
-publication_types: ["4"]
+publication_types:
 categories: "Research"
 date: 2021-07-01
 paperurl: 
