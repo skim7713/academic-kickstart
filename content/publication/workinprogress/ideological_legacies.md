@@ -1,12 +1,12 @@
 ---
 title: "Alternative Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States (accepted at *Party Politics*)"
-subtitle: "Under Review"
+subtitle: "Accepted"
 collection: published
 authors: 
 - admin
 permalink: /research/project4
-excerpt: 'Under Review'
-date: 2021-07-01
+excerpt: ''
+date: 2022-02-10
 categories: "Publications"
 
 paperurl: https://www.dropbox.com/s/3noqf0fnce6qlp0/Kim-Leffingwell_Writing_Sample3.pdf?dl=0
