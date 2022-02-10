@@ -1,6 +1,6 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/dissertation/`.
+# This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -26,8 +26,8 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = "Publications"
-    category = "Published"
-    publication_type = ""
+    category = "published"
+    publication_type = "2"
     author = ""
     exclude_featured = false
   
