@@ -5,7 +5,7 @@ collection: published
 authors: 
 - admin
 - Nikki Usher
-permalink: /polcom/losingthenews
+permalink: /publication/losingthenews
 excerpt: ''
 date: "2021-10-01"
 
