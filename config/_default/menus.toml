@@ -11,6 +11,12 @@
   name = "Dissertation Project"
   url = "#publication-dis"
   weight = 15
+ 
+ [[main]]
+ name = "Publications"
+ url = "#publication-general"
+ weight = 17 
+  
 [[main]]
   name = "Research"
   url = "#research-AN"
