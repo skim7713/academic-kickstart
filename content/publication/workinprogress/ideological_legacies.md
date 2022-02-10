@@ -4,7 +4,7 @@ subtitle: "Accepted"
 collection: Publications
 authors: 
 - admin
-permalink: /research/project4
+permalink: /publications/project4
 excerpt: ''
 date: 2022-02-10
 categories: "Published"
