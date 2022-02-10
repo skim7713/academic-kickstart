@@ -7,7 +7,7 @@ authors:
 permalink: /research/project4
 excerpt: ''
 date: 2022-02-10
-categories: "Publication"
+categories: "Published"
 
 paperurl: https://www.dropbox.com/s/3noqf0fnce6qlp0/Kim-Leffingwell_Writing_Sample3.pdf?dl=0
 citation:
