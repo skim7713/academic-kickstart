@@ -9,7 +9,7 @@ permalink: /polcom/losingthenews
 excerpt: ''
 date: "2021-10-01"
 
-categories: "Publications"
+categories: "Publication"
 
 # paperurl: 
 # citation:
