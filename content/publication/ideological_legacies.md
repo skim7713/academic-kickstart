@@ -11,6 +11,7 @@ categories: "Published"
 
 paperurl: https://www.dropbox.com/s/3noqf0fnce6qlp0/Kim-Leffingwell_Writing_Sample3.pdf?dl=0
 citation:
+tag: "Publications"
 publication: "*Party Politics*"
 publication_types: ["2"]
 
