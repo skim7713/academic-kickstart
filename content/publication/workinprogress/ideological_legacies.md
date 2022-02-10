@@ -1,7 +1,7 @@
 ---
 title: "Alternative Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States (accepted at *Party Politics*)"
 subtitle: "Accepted"
-collection: Publications
+collection: Published
 authors: 
 - admin
 permalink: /Publications/project4
