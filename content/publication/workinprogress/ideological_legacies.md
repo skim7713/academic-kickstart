@@ -7,7 +7,7 @@ authors:
 permalink: /research/project4
 excerpt: 'Under Review'
 date: 2021-07-01
-categories: "published"
+categories: "Publications"
 
 paperurl: https://www.dropbox.com/s/3noqf0fnce6qlp0/Kim-Leffingwell_Writing_Sample3.pdf?dl=0
 citation:
