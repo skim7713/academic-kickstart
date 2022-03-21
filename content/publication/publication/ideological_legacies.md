@@ -1,6 +1,6 @@
 ---
-title: "Alternative Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States (accepted)"
-subtitle: "Accepted"
+title: "Alternative Ideological Legacies of Authoritarianism: Pro-dictator Bias in Post-developmental States (forthcoming)"
+subtitle: "forthcoming"
 collection: published
 authors: 
 - admin
