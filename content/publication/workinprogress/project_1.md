@@ -1,18 +1,18 @@
 ---
 
-title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting (R&R at Journal of Election, Public Opinion and Parties)"
+title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting (R&R)"
 authors: 
 - admin
 collection: published
 permalink: /research/project1
-publicaton: "Under Review"
+publicaton: "Journal of Election, Public Opinion and Parties"
 
 publication_types:
 categories: "published"
 date: 2021-07-01
 paperurl: 
 tags: ["Legacies"]
-# Publication type.
+Publication type: 2
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
