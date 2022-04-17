@@ -5,14 +5,14 @@ authors:
 - admin
 collection: published
 permalink: /research/project1
-publicaton: "Journal of Election, Public Opinion and Parties"
 
 publication_types:
 categories: "published"
 date: 2021-07-01
 paperurl: 
 tags: ["Legacies"]
-Publication type: 2
+publicaton: "*Journal of Election, Public Opinion and Parties*"
+Publication type: ["2"]
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
