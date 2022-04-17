@@ -15,7 +15,7 @@ role: Incoming Lecturer and Program Coordinator
 # Organizations/Affiliations
 organizations:
 - name: Johns Hopkins University
-  url: "https://advanced.jhu.edu"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
