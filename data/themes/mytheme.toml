@@ -2,13 +2,13 @@
 name = "mytheme"
 
 # Is theme light or dark?
-light = true
+#light = automatic
 
 # Primary
-primary = "#4169e1" 
+primary = "#68ACE5" 
 primary_light="#002D72"
 primary_dark = "#A5A8AA"
-
+# #4169e
 # Menu
 menu_primary = "#002D72"
 menu_text = "#fff"
