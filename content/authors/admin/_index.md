@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Incoming Lecturer and Program Coordinator
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Political Science, University of Illinois
-  url: ""
+- name: Johns Hopkins University
+  url: "https://advanced.jhu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -29,8 +29,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Political Science
+  - course: PhD in Political Science
     institution: University of Illinois at Urbana-Champaign
+    year: 2022
   - course: MA in Political Science
     institution: Korea University
     year: 2015
