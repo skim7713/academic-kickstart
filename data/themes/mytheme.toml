@@ -6,11 +6,11 @@ light = true
 
 # Primary
 primary = "#4169e1" 
-primary_light="#13294b"
+primary_light="#002D72"
 primary_dark = "#A5A8AA"
 
 # Menu
-menu_primary = "#13294b"
+menu_primary = "#002D72"
 menu_text = "#fff"
 menu_text_active = "#68ACE5"
 menu_title = "#fff"
