@@ -75,7 +75,11 @@ subtitle = ""
  css_class = ""
 +++
 
-I received the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
+## Johns Hopkins University, Advanced Academic Programs
+### Instructor
+- AS470.681 Probability and Statistics (Summer 2022)
+- AS470.768 Programming and Data Management (Summer 2022)
+
 ## University of Illinois at Urbana-Champaign
 ### Instructor
 - PS230 Intro to Political Research (Spring 2021, Spring 2022)
@@ -84,6 +88,7 @@ I received the A. Belden Fields Award for Excellence in Undergraduate Teaching a
 - PS100 Intro to Political Science (Online, Spring 2019)
 
 ### Teaching Assistant
+I received the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
 - PS231 Strategic Models (Fall 2020, Fall 2021) 
 - PS241 Comparative Politics in Developing Nations (Spring 2018, Fall 2018)
 - PS220 Intro to Public Policy (Fall 2017)
