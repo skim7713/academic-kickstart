@@ -16,7 +16,8 @@ publication_types:
 
 ---
 
-This paper is an effort to find an
+New democracies have followed different trajectories of democratic consolidation and
+retained varied vestiges of the former dictatorship. This paper is an effort to find an
 explanation for such variation in authoritarian legacies across post-authoritarian
 democracies. To do so, I first discuss two key components of authoritarian legacies:
 authoritarian inheritance and authoritarian reference. I describe the variations in
@@ -26,4 +27,3 @@ and developing different instruments measuring authoritarian inheritance and ref
 across post-authoritarian countries. After discussing the key characteristics of the
 authoritarian legacies index (ALI), I examine key predictors of authoritarian legacies,
 with variables capturing pre- and post-transition features.
-
