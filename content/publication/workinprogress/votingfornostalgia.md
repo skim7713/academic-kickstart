@@ -1,5 +1,5 @@
 ---
-title: "Voting for Nostalgia?: Authoritarian Nostalgia, Social Identity, and Political Behavior (Under review)"
+title: "Voting for Nostalgia?: Authoritarian Nostalgia, Social Identity, and Political Behavior"
 collection: Research
 authors: 
 - admin
