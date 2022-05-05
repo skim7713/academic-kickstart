@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Authoritarian nostalgia"
+subtitle = "Authoritarian legacies"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
