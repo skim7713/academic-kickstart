@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming Lecturer and Program Coordinator
+role: Senior Lecturer and Program Coordinator
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Senior Lecturer and Program Coordinator, Johns Hopkins University
 
 interests:
 - Authoritarian legacies
