@@ -15,7 +15,7 @@ role: Senior Lecturer and Program Coordinator
 # Organizations/Affiliations
 organizations:
 - name: Johns Hopkins University
-  url: ""
+  url: "https://advanced.jhu.edu/directory/sanghoon-kim-leffingwell/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
