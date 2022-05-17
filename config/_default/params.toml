@@ -71,7 +71,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+# edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sk12@illinois.edu"
+email = "skim511@jhu.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "433 David Kinley Hall, 1407 W Gregory Drive", city = "Urbana", region = "IL", postcode = "61801", country = "United States", country_code = "US"}
+address = {street = "1717 Massachusetts Ave, NW", city = "DC", region = "DC", postcode = "20036", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -119,7 +119,7 @@ contact_links = [{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "h
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "KimLeffingwell"
+twitter = "SKimLeffingwell"
 
 ############################
 ## Regional Settings
