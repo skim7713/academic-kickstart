@@ -46,10 +46,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "sk12@illinois.edu".
+  link: skl@jhu.edu  # For a direct email link, use "sk12@illinois.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SanghoonKim87
+  link: https://twitter.com/SKimleffingwell
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
