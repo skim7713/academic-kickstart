@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Lecturer and Program Coordinator, Johns Hopkins University
+bio: 
 
 interests:
 - Authoritarian legacies
