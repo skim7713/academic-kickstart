@@ -9,7 +9,7 @@ publication_types:
 categories: "published"
 date: 2022-04-16
 
-tags: ["Authoritarian legacies"]
+tags: ["Authoritarian legacies","Partisan bias","Corruption"]
 publication: "*Journal of Election, Public Opinion and Parties*"
 publication_types: ["2"]
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
