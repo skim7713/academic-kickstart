@@ -10,7 +10,7 @@ categories: "published"
 
 paperurl: https://doi.org/10.1177/13540688221083559
 citation:
-tag: "Publications"
+tags: ["Authoritarian legacies", "Ideological bias"]
 publication: "*Party Politics*"
 publication_types: ["2"]
 
