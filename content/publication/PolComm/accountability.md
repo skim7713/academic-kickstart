@@ -8,7 +8,7 @@ permalink: /polcom/accountability
 excerpt: ''
 date: 2022-09-10
 
-categories: "published"
+categories: "polcomm"
 
 # paperurl: 
 # citation:
