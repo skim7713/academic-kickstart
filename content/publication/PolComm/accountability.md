@@ -6,13 +6,13 @@ authors:
 - admin
 permalink: /polcom/accountability
 excerpt: ''
-date: 2022-04-28
+date: 2022-09-10
 
-categories: "PolComm"
+categories: "published"
 
 # paperurl: 
 # citation:
-publication: "Under Review"
+publication: "R&R"
 publication_types: ["3"]
 
 ---
