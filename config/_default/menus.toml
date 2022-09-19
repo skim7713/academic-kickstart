@@ -9,7 +9,7 @@
   weight = 10
 [[main]]
   name = "Dissertation Project"
-  parent ="Research"
+  parent ="research"
   url = "#publication-dis"
   weight = 15
  
@@ -20,6 +20,7 @@
   
 [[main]]
   name = "Research"
+  identifier="research"
   url = "#research-AN"
   weight = 20
 
