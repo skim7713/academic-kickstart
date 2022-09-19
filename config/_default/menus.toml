@@ -9,6 +9,7 @@
   weight = 10
 [[main]]
   name = "Dissertation Project"
+  parent ="Research"
   url = "#publication-dis"
   weight = 15
  
