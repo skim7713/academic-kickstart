@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Lecturer and Program Coordinator with the Center for Advanced Governmental Studies at Johns Hopkins University. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. My research interests focus on [authoritarian nostalgia](https://www.sanghoonkim.org/publication/dissertation/dissertation/) and related political behavior in post-authoritarian democracies, especially East Asian countries. My dissertation investigates why individual voters feel nostalgic for an authoritarian past and vote for political parties that are linked to the past. My research has appeared or is forthcoming at *Party Politics* and *Political Communication*.
+I am a Senior Lecturer and Program Coordinator with the Center for Advanced Governmental Studies at Johns Hopkins University. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. My research interests focus on [authoritarian nostalgia](https://www.sanghoonkim.org/publication/dissertation/dissertation/) and related political behavior in post-authoritarian democracies, especially East Asian countries. My book project investigates why individual voters feel nostalgic for an authoritarian past and vote for political parties that are linked to the past. My research has appeared in or is forthcoming at *Party Politics* and *Political Communication*.
 
 My dissertation research is supported by various sources, including a [Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan and a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/). 
 
