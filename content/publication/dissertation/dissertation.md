@@ -35,6 +35,6 @@ This research is funded by the Taiwan Fellowship from the Ministry of Foreign Af
 
 [Link to pre-registration](https://osf.io/2uzg3)
 
-[Link to the job market paper](https://www.dropbox.com/s/f2jqnlobuey8flk/Voting%20for%20Nostalgia.pdf?dl=1)
+[Link to the job market paper](https://www.dropbox.com/s/exe1xlpa7cxb3k0/JMP.pdf?dl=0)
 
 
