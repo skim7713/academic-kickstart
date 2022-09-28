@@ -1,7 +1,7 @@
 ---
 title: "Voting for Nostalgia?: Authoritarian Legacies, Social Identity, and Political Behavior in Post-Authoritarian Democracies"
-collection: dissertation
-permalink: /dissertation/main
+collection: book_project
+permalink: /bookproject/main
 authors: 
 - admin
 
@@ -14,7 +14,7 @@ authors:
 
 # publication_types: ["7"]
 
-categories: "dissertation"
+categories: "book_project"
 
 header:
   image: "image.png"
