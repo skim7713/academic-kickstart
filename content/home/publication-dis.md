@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Dissertation"
+subtitle = "Book Project"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -26,7 +26,7 @@ subtitle = "Dissertation"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "dissertation"
+    category = "book_project"
     publication_type = ""
     author = ""
     exclude_featured = false
