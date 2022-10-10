@@ -21,7 +21,7 @@ How do we measure nostalgic sentiment for former dictatorships among voters in n
 <figure>
 <img src="/dataviz/nost_ph_map_pc.png" alt="drawing" width="400"/>
 <figcaption align = "center"><b>Geographic distribution of nostalgic tweets across Philippine provinces</b></figcaption>
-  <img src="/dataviz/sentiment_bar2.png" alt="drawing" width="400"/>
+  <img src="/dataviz/sentiment_bar2.png" alt="drawing" width="700"/>
 <figcaption align = "center"><b>Comparing general sentiment across nostalgic and non-nostalgic accounts</b></figcaption>
 </figure>
 
