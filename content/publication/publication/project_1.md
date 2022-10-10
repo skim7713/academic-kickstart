@@ -23,6 +23,6 @@ What explains the lack of electoral consequences for corrupt politicians? Buildi
 
 
 <figure>
-  <img src="/dataviz/mainplot.png" alt="drawing" width="700"/>
+  <img src="/dataviz/corruptionpaper.png" alt="drawing" width="700"/>
 <figcaption align = "center"><b>Corruption perception and voting for copartisan incumbents</b>: The figure shows that supporters of authoritarian successor parties are less likely to punish copartisan incumbents compared to Democratic Party supporters. </figcaption>
 </figure>
