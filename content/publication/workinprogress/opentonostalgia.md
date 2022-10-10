@@ -12,7 +12,7 @@ categories: "Research"
 
 paperurl: 
 citation:
-publication: "Under Review"
+##publication: "Under Review"
 publication_types: ["3"]
 tags: ["Authoritarian legacies","Authoritarian nostalgia","Personality traits"]
 
