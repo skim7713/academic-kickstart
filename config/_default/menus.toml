@@ -22,8 +22,14 @@
 [[main]]
   name = "Research"
   identifier="research"
-  url = "#research-AN"
+  url = "#research"
   weight = 20
+  
+[[main]]
+  name = "Authoritarian Legacies"
+  parent="research"
+  url = "#research-AN"
+  weight = 25
 
 [[main]]
   name = "Teaching"
