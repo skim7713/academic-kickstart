@@ -8,7 +8,7 @@
   url = "#about"
   weight = 10
 [[main]]
-  name = "Dissertation Project"
+  name = "Book Project"
   parent ="research"
   url = "#publication-dis"
   weight = 15
