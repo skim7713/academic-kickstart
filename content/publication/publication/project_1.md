@@ -7,7 +7,7 @@ permalink: /research/project1
 
 publication_types:
 categories: "Research"
-date: 2022-04-16
+date: 2022-10-16
 
 tags: ["Authoritarian legacies","Partisan bias","Corruption"]
 publication: "Under Review"
