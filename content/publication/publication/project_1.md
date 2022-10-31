@@ -1,5 +1,5 @@
 ---
-title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting (Under Review)"
+title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
 authors: 
 - admin
 collection: published
@@ -10,7 +10,7 @@ categories: "Research"
 date: 2022-04-16
 
 tags: ["Authoritarian legacies","Partisan bias","Corruption"]
-publication: ""
+publication: "Under Review"
 publication_types: ["2"]
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
