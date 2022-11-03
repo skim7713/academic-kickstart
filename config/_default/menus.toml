@@ -11,7 +11,7 @@
   name = "Book Project"
   parent ="research"
   url = "#publication-dis"
-  weight = 15
+  weight = 18
  
  [[main]]
  name = "Publications"
