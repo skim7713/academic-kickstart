@@ -10,7 +10,7 @@
  
  [[main]]
  name = "Publications"
- parent ="research"
+ identifier="research"
  url = "#publication-general"
  weight = 15 
  
@@ -22,7 +22,7 @@
   
 [[main]]
   name = "Research"
-  identifier="research"
+  parent ="research"
   url = "#research"
   weight = 20
   
