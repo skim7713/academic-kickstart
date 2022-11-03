@@ -7,17 +7,18 @@
   name = "Home"
   url = "#about"
   weight = 10
-[[main]]
-  name = "Book Project"
-  parent ="research"
-  url = "#publication-dis"
-  weight = 18
  
  [[main]]
  name = "Publications"
  parent ="research"
  url = "#publication-general"
- weight = 17 
+ weight = 15 
+ 
+ [[main]]
+  name = "Book Project"
+  parent ="research"
+  url = "#publication-dis"
+  weight = 18
   
 [[main]]
   name = "Research"
