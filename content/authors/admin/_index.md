@@ -34,7 +34,7 @@ education:
     year: 2022
   - course: MA in Political Science
     institution: Korea University
-    year: 2015
+    year: 2016
   - course: BA in Political Science; Economics
     institution: Korea University
     year: 2011
