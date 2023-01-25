@@ -47,7 +47,7 @@ subtitle = "Political Economy in East Asia"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Research"
+    category = "EastAsia"
     publication_type = ""
     author = ""
     exclude_featured = false
