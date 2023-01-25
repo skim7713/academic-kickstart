@@ -1,6 +1,6 @@
 ---
-title: "Kill Protests with Kindness: Anti-China protests and China’s public diplomacy"
-collection: WorkinProgress
+title: "Kill Protests with Kindness: Anti-China protests and China’s public diplomacy "
+collection: EastAsia
 authors: 
 - admin
 - Yujeong Yang
@@ -9,11 +9,11 @@ authors:
 permalink: /workinprogress/acp1
 excerpt: ''
 date: 2022-10-16
-categories: "WorkinProgress"
+categories: "EastAsia"
 
 paperurl: 
 citation:
-publication: 
+publication: "R&R"
 publication_types: ['3']
 
 paperurl: 
