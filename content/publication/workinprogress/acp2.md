@@ -1,6 +1,6 @@
 ---
 title: "Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad"
-collection: WorkinProgress
+collection: EastAsia
 authors: 
 - admin
 - Yujeong Yang
@@ -9,11 +9,11 @@ authors:
 permalink: /workinprogress/acp1
 excerpt: ''
 date: 2022-09-16
-categories: "WorkinProgress"
+categories: "EastAsia"
 
 paperurl: 
 citation:
-publication: 
+publication: "Under Review"
 publication_types: ['3']
 
 paperurl: 
