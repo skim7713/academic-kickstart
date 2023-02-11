@@ -6,7 +6,7 @@ collection: korea
 permalink: /research/project1
 
 publication_types:
-categories: "Research"
+categories: "korea"
 date: 2022-10-16
 
 tags: ["Authoritarian legacies","Partisan bias","Corruption"]
