@@ -1,6 +1,6 @@
 ---
 title: "Open to an Authoritarian Past?: Dispositional Foundations of Authoritarian Nostalgia"
-collection: Research
+collection: korea
 authors: 
 - admin
 permalink: /research/opento
