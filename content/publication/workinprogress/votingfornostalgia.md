@@ -8,7 +8,7 @@ excerpt: ''
 date: "2022-10-07"
 show_date: "false"
 date_print: "Forthcoming"
-categories: "Research"
+categories: "korea"
 
 paperurl: 
 citation:
