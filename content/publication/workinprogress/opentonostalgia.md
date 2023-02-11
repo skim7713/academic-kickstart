@@ -8,7 +8,7 @@ excerpt: ''
 date: "2022-05-31"
 show_date: "false"
 ##date_print: "Under Review"
-categories: "Research"
+categories: "korea"
 
 paperurl: 
 citation:
