@@ -35,7 +35,11 @@
   parent="research"
   url = "#research-AN"
   weight = 25
-
+[[main]]
+  name = "Political Economy in Asia"
+  parent="research"
+  url = "#research-EastAsia"
+  weight = 26
 [[main]]
   name = "Teaching"
   url = "#teaching"
