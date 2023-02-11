@@ -1,8 +1,8 @@
 ---
-title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting"
+title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting: Evidence from South Korea"
 authors: 
 - admin
-collection: published
+collection: korea
 permalink: /research/project1
 
 publication_types:
