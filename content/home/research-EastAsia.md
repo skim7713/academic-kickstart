@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 38  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Political Economy in East Asia"
+subtitle = "Political Economy in Asia"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,8 +37,8 @@ subtitle = "Political Economy in East Asia"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Political Economy in EA"
-    tag = "Political Economy in EA"
+    name = "Political Economy in Asia"
+    tag = "Political Economy in Asia"
   
   # [[content.filter_button]]
   #   name = "Other"
