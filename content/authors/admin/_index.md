@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Authoritarian legacies
-- Korean Politics
+- Korean politics
 - Comparative political behavior
 - Personality and political attitudes
 - Post-authoritarian democracies
