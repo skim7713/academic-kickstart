@@ -1,5 +1,5 @@
 ---
-title: "Authoritarian Legacies and Partisan Bias in Performance-based Voting: Evidence from South Korea"
+title: "Authoritarian Legacies and Partisan Bias in Corruption Voting: Evidence from South Korea"
 authors: 
 - admin
 collection: korea
