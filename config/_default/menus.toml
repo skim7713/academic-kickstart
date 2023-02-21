@@ -18,13 +18,13 @@
   name = "Book Project"
   parent ="research"
   url = "#publication-dis"
-  weight = 18
+  weight = 20
   
 [[main]]
   name = "Research"
   identifier="research"
   url = "#research"
-  weight = 12
+  weight = 18
  [[main]]
   name = "Korean Politics"
   parent="research"
