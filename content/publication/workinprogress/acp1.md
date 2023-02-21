@@ -1,5 +1,5 @@
 ---
-title: "Kill Protests with Kindness: Anti-China protests and China’s public diplomacy "
+title: "Kill Protests with Kindness: Anti-China protests and China’s public diplomacy"
 collection: EastAsia
 authors: 
 - admin
