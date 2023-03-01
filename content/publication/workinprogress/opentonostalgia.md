@@ -5,7 +5,7 @@ authors:
 - admin
 permalink: /research/opento
 excerpt: ''
-date: "2022-05-31"
+date: "2023-02-01"
 show_date: "false"
 ##date_print: "Under Review"
 categories: "korea"
