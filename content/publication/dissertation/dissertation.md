@@ -1,5 +1,5 @@
 ---
-title: "Authoritarian Nostalgia in Democratic Voters: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior  "
+title: "The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior"
 collection: book_project
 permalink: /bookproject/main
 authors: 
