@@ -1,5 +1,5 @@
 ---
-title: "Voting for Nostalgia?: Authoritarian Nostalgia, Group Sentiment, and Political Behavior"
+title: "Authoritarian Nostalgia, Group Sentiment, and Political Behavior"
 collection: Research
 authors: 
 - admin
@@ -8,7 +8,7 @@ excerpt: ''
 date: "2023-02-07"
 show_date: "False"
 date_print: "Forthcoming"
-categories: "korea"
+categories: "Research"
 
 paperurl: 
 citation:
