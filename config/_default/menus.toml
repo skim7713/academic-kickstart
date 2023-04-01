@@ -25,11 +25,7 @@
   identifier="research"
   url = "#research"
   weight = 18
- [[main]]
-  name = "Korean Politics"
-  parent="research"
-  url = "#pub-korea"
-  weight = 24
+
 [[main]]
   name = "Authoritarian Legacies"
   parent="research"
