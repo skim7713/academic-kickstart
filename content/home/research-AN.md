@@ -97,4 +97,5 @@ list_format = 1
  css_class = ""
 +++
 
+My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. The primary focus of my research is understanding the role of authoritarian nostalgia as a source of social identity and its effects on heightened partisanship. I also develop new instruments for measuring the individual nostalgic sentiment.
 
