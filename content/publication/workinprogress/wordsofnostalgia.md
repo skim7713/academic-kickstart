@@ -1,5 +1,5 @@
 ---
-title: "Measuring Nostalgia Rhetoric using Social Media Data"
+title: "Measuring Nostalgia Rhetoric Using Social Media Data"
 collection: Research
 authors: 
 - admin
