@@ -97,4 +97,4 @@ list_format = 0
  css_class = ""
 +++
 
-
+From my work on corruption, I have developed an interest in studying factors that can promote political accountability. In collaborative projects with Nikki Usher, I examine the impacts of declining local journalism on political accountability. 
