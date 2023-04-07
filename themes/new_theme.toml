@@ -12,6 +12,7 @@ menu_primary = "#68ACE5"
 menu_text = "#68ACE5"
 menu_text_active = "#2b2b2b"
 menu_title = "#2b2b2b"
+menu_subtitle = "#68ACE5"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
