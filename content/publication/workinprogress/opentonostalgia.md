@@ -1,5 +1,5 @@
 ---
-title: "Open to an Authoritarian Past?: Dispositional Foundations of Authoritarian Nostalgia"
+title: "Personality Traits, Democratic Support, and Authoritarian Nostalgia"
 collection: korea
 authors: 
 - admin
@@ -12,9 +12,9 @@ categories: "Research"
 
 paperurl: 
 citation:
-publication: "Under Review"
+publication: "R&R"
 publication_types: ["3"]
-tags: ["Authoritarian legacies","Authoritarian nostalgia","Personality traits"]
+tags: ["authoritarian nostalgia","personality traits", "big-five framework", "post-authoritarian democracies"]
 
 ---
 
