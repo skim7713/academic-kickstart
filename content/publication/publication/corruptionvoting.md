@@ -21,6 +21,7 @@ publication_types: ["2"]
 ---
 What explains the lack of electoral consequences for corrupt politicians? Building on studies of motivated reasoning and asymmetric partisan bias, this paper highlights the importance of partisan differences in how voters interpret corruption charges and make voting decisions. I contend that in post-authoritarian democracies, supporters of authoritarian legacy parties (ALPs) are less likely to punish corrupt copartisan incumbents compared to supporters of other parties faced with equally corrupt copartisan incumbents. While voters of all kinds appear likely to ignore corruption among copartisan incumbents, supporters of authoritarian legacy parties are particularly likely to do so. I argue that the authoritarian origins of ALP’s ideological values and a stronger affective partisanship that originates in authoritarian nostalgia contribute to asymmetric partisan bias in performance-based voting among partisans of ALPs. Empirical results from election data from South Korea illustrate partisan discrepancies and a striking lack of performance-based voting among authoritarian legacy partisans. 
 
+ https://doi.org/10.1017/jea.2023.5
 
 <figure>
   <img src="/dataviz/corruptionpaper.png" alt="drawing" width="700"/>
