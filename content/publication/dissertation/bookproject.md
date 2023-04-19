@@ -1,5 +1,5 @@
 ---
-title: "The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior"
+title: "The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior (Under Review)"
 collection: book_project
 permalink: /bookproject/main
 authors: 
