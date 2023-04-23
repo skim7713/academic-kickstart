@@ -47,13 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:skl@jhu.edu"  # For a direct email link, use "sk12@illinois.edu".
+  link: "mailto:skl@jhu.edu"  # For a direct email link, use "skl@jhu.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SKimleffingwell
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=RM9Rt4gAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/skim7713
