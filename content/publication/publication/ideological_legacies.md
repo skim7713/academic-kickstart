@@ -12,6 +12,8 @@ paperurl: https://doi.org/10.1177/13540688221083559
 citation:
 tags: ["Authoritarian legacies", "Ideological bias"]
 publication: "*Party Politics*"
+volume: 29
+issue: 3
 publication_types: ["2"]
 
 ---
