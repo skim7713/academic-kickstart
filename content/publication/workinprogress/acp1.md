@@ -8,12 +8,12 @@ authors:
 - Do-Young Gong
 permalink: /workinprogress/acp1
 excerpt: ''
-date: 2023-01-16
-categories: "EastAsia"
+date: 2023-05-10
+categories: "published"
 
 paperurl: 
 citation:
-publication: "R&R"
+publication: "International Studies Quarterly"
 publication_types: ['3']
 
 paperurl: 
