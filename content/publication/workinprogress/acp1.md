@@ -13,7 +13,7 @@ categories: "published"
 
 paperurl: 
 citation:
-publication: "International Studies Quarterly"
+publication: "International Studies Quarterly (accepted)"
 publication_types: ['3']
 
 paperurl: 
