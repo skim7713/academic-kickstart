@@ -75,6 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
+I received an Excellence in Teaching Award in 2023 at Johns Hopkins University and the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019 at the University of Illinois. Teaching evaluations are available upon request.
+
 ## Johns Hopkins University, Advanced Academic Programs
 ### Instructor
 - AS470.854 Fundamentals of Quantitative Methods (Spring 2023)
@@ -90,7 +92,6 @@ subtitle = ""
 - PS100 Introduction to Political Science (Online, Spring 2019)
 
 ### Teaching Assistant
-I received the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
 - PS231 Strategic Models (Fall 2020, Fall 2021) 
 - PS241 Comparative Politics in Developing Nations (Spring 2018, Fall 2018)
 - PS220 Introduction to Public Policy (Fall 2017)
