@@ -8,11 +8,11 @@ excerpt: ''
 date: "2023-02-01"
 show_date: "False"
 ##date_print: "R&R"
-categories: "Research"
+categories: "published"
 
 paperurl: 
 citation:
-publication: "R&R"
+publication: "Social Science Quarterly (accepted)"
 publication_types: ["3"]
 tags: ["authoritarian nostalgia","personality traits", "big-five framework", "post-authoritarian democracies"]
 
