@@ -2,8 +2,8 @@
 title: "Kill Protests with Kindness: Anti-China protests and China’s public diplomacy"
 collection: EastAsia
 authors: 
-- admin
 - Yujeong Yang
+- admin
 - Shuyuan Shen
 - Do-Young Gong
 permalink: /workinprogress/acp1
