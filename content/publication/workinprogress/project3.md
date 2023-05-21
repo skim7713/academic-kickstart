@@ -1,5 +1,5 @@
 ---
-title: "Right in the past, left in the future?: partisanship and politics of nostalgia"
+title: "Right in the Past, Left in the Present?: Ideology and Political Nostalgia"
 collection: WorkinProgress
 authors: 
 - admin
