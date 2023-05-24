@@ -12,7 +12,7 @@ categories: "Research"
 
 paperurl: 
 citation:
-publication: "Under Review"
+publication: "R&R"
 publication_types: ["3"]
 tags: ["Authoritarian legacies", "Authoritarian nostalgia", "Voting behavior", "Social identity"]
 
