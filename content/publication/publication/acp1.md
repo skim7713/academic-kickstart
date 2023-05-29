@@ -8,12 +8,12 @@ authors:
 - Do-Young Gong
 permalink: /workinprogress/acp1
 excerpt: ''
-date: 2023-05-10
+date: 2023-05-28
 categories: "published"
 
 paperurl: 
 citation:
-publication: "*International Studies Quarterly* (accepted)"
+publication: "*International Studies Quarterly*"
 publication_types: ['3']
 
 paperurl: 
