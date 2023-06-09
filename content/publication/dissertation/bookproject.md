@@ -30,7 +30,7 @@ More than three decades has passed since the Third Wave of democratization at th
 My book further explains why such nostalgic voter behavior is more pronounced in some countries but not in others. In South Korea and the Philippines, politicians often play the nostalgia card and successfully mobilize voters, but such nostalgic rhetoric has proven ineffective in other post-authoritarian democracies, such as Indonesia. I argue that histories of state-sponsored hierarchical nationalism under dictatorship generate stronger nostalgic voter behavior, while nostalgic rhetoric proves less effective in countries with egalitarian nationalism that emphasizes civic and popular features. The legacies of how dictators have consolidated symbolic power through nationalism and national identity can shape the mobilizing effectiveness of nostalgic rhetoric among voters in democratic elections.
 
 
-This research is funded by the Taiwan Fellowship from the Ministry of Foreign Affairs, Taiwan, Chiang Ching-kuo Foundation for International Scholarly Exchange, CEAPS Graduate Student Dissertation Travel Grant, Nelle M. Signor Graduate	Scholarship in International Relations, and Ferber & Sudman Dissertation Awards for Survey Research at the University of Illinois at Urbana-Champaign.
+This research is funded by the SNF Agora Institute at Johns Hopkins University, the Taiwan Fellowship from the Taiwanese Ministry of Foreign Affairs, Chiang Ching-kuo Foundation for International Scholarly Exchange, CEAPS Graduate Student Dissertation Travel Grant, Nelle M. Signor Graduate	Scholarship in International Relations, and Ferber & Sudman Dissertation Awards for Survey Research at the University of Illinois at Urbana-Champaign.
 
 [Link to pre-registration](https://osf.io/2uzg3)
 
