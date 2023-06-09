@@ -12,7 +12,7 @@ categories: "published"
 
 paperurl: 
 citation:
-publication: "Social Science Quarterly"
+publication: "*Social Science Quarterly*"
 publication_types: ["3"]
 tags: ["authoritarian nostalgia","personality traits", "big-five framework", "post-authoritarian democracies"]
 
