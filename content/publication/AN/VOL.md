@@ -12,7 +12,7 @@ categories: "Research"
 paperurl: 
 citation:
 publication: "Working Paper"
-publication_types: 
+publication_types: ["3"] 
 
 ---
 
