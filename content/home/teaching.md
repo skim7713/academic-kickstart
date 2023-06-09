@@ -79,9 +79,10 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 
 ## Johns Hopkins University, Advanced Academic Programs
 ### Instructor
+- AS470.681 Probability and Statistics (Summer, Fall 2022; Summer 2023)
+- AS470.708 Unleashing Open Data with Python (Summer 2023)
 - AS470.854 Fundamentals of Quantitative Methods (Spring 2023)
-- AS470.669 Mathematics for Data Scientists (Fall 2022, Spring 2023)
-- AS470.681 Probability and Statistics (Summer, Fall 2022)
+- AS470.669 Mathematics for Data Scientists (Fall 2022; Spring 2023)
 - AS470.768 Programming and Data Management (Summer 2022)
 
 ## University of Illinois at Urbana-Champaign
