@@ -9,12 +9,12 @@ authors:
 permalink: /workinprogress/acp1
 excerpt: ''
 date: 2023-05-28
-categories: "published"
+categories: "EastAsia"
 
 paperurl: 
 citation:
 publication: "*International Studies Quarterly*"
-publication_types: ['3']
+publication_types: ['2']
 
 paperurl: 
 ---
