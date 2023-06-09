@@ -15,7 +15,7 @@ subtitle = "Authoritarian legacies"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -58,7 +58,7 @@ subtitle = "Authoritarian legacies"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 1
  
 
  
@@ -67,7 +67,7 @@ subtitle = "Authoritarian legacies"
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
