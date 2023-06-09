@@ -18,7 +18,7 @@
   name = "Book Project"
   parent ="research"
   url = "#publication-dis"
-  weight = 20
+  weight = 25
   
 [[main]]
   name = "Research"
@@ -30,7 +30,7 @@
   name = "Authoritarian Legacies"
   parent="research"
   url = "#research-AN"
-  weight = 25
+  weight = 20
 [[main]]
   name = "Political Economy in Asia"
   parent="research"
