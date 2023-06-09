@@ -13,7 +13,7 @@ categories: "PolComm"
 # paperurl: 
 # citation:
 publication: "*International Journal of Press/Politics*"
-publication_types: ["3"]
+publication_types: ["2"]
 
 ---
 
