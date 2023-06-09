@@ -8,7 +8,7 @@ excerpt: ''
 date: "2023-05-26"
 show_date: "False"
 ##date_print: "R&R"
-categories: "published"
+categories: "Research"
 
 paperurl: 
 citation:
