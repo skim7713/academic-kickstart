@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Peer-reviewed Publications"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -68,4 +68,5 @@ subtitle = ""
  # css_class = ""
 +++
 
+My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. The primary focus of my research is understanding the role of authoritarian nostalgia as a source of social identity and its effects on voter behavior. In my book project, I further explore cross-national variation in authoritarian legacies by introducing a political psychological perspective with an emphasis on symbolic politics, in addition to the conventional focus on political economy. In addition, I have developed a separate research project understanding the political economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China.
 
