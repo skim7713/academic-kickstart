@@ -12,7 +12,7 @@ categories: "published"
 
 # paperurl: 
 # citation:
-publication: "International Journal of Press/Politics"
+publication: "*International Journal of Press/Politics*"
 publication_types: ["3"]
 
 ---
