@@ -8,11 +8,11 @@ permalink: /polcom/accountability
 excerpt: ''
 date: 2023-02-10
 
-categories: "polcomm"
+categories: "published"
 
 # paperurl: 
 # citation:
-publication: "R&R"
+publication: "International Journal of Press/Politics"
 publication_types: ["3"]
 
 ---
