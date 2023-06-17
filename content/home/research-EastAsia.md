@@ -96,4 +96,4 @@ list_format = 1
  # CSS class.
  css_class = ""
 +++
-
+I have developed a separate research project understanding the political economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China.
