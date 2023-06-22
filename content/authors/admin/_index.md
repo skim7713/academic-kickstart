@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer and Program Coordinator
+role: Senior Lecturer and Assistant Director
 
 # Organizations/Affiliations
 organizations:
