@@ -6,9 +6,9 @@ authors:
 - Emily Sallenback
 permalink: /research/wordsofnostalgia
 excerpt: ''
-date: "2022-10-09"
+date: "2023-01-09"
 show_date: "false"
-categories: "Research"
+categories: "Working"
 
 paperurl: 
 citation:
