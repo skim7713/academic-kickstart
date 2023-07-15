@@ -7,7 +7,7 @@ permalink: /research/ideologynostalgia
 excerpt: ''
 date: 2020-10-01
 
-categories: "WorkinProgress"
+categories: "Working"
 
 # paperurl: 
 # citation:
