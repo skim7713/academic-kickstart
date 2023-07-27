@@ -26,6 +26,7 @@ interests:
 - Comparative political behavior
 - Personality and political attitudes
 - Post-authoritarian democracies
+- Political economy 
 
 
 education:
