@@ -21,12 +21,12 @@ organizations:
 bio: 
 
 interests:
-- Authoritarian legacies
+- Authoritarian nostalgia
 - Korean Politics
 - Comparative political behavior
 - Personality and political attitudes
 - Post-authoritarian democracies
-- Political economy 
+- Political economy in Asia
 
 
 education:
