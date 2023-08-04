@@ -8,11 +8,11 @@
   url = "#about"
   weight = 10
  
- [[main]]
- name = "Research"
- parent ="research"
- url = "#publication-general"
- weight = 15 
+# [[main]]
+# name = "Research"
+# parent ="research"
+# url = "#publication-general"
+# weight = 15 
 [[main]]
   name = "Research"
   identifier="research"
@@ -20,7 +20,7 @@
   weight = 18
 
 [[main]]
-  name = "Authoritarian Legacies"
+  name = "Authoritarian nostalgia"
   parent="research"
   url = "#research-AN"
   weight = 20 
