@@ -29,3 +29,7 @@ watchdog journalism with non-profit journalism might mitigate associated
 declines in federal prosecution for public corruption. Our findings suggest nonprofit
 interventions in failing local commercial news markets may be an important safeguard
 for keeping public officials accountable.
+
+https://doi.org/10.1177/19401612231186939
+
+
