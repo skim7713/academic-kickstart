@@ -26,3 +26,13 @@ Legacies of an authoritarian past have enduring effects on voters' attitudes and
 </figure>
 
 [Link to the draft](https://www.dropbox.com/s/f2jqnlobuey8flk/Voting%20for%20Nostalgia.pdf?dl=0)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JR2KMVED04"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JR2KMVED04');
+</script>
