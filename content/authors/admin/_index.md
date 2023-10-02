@@ -78,4 +78,12 @@ I am a Senior Lecturer and Assistant Director of the Data Analytics and Policy P
  
 My research has received support from various sources, including a Faculty Grant Award from the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University, a [Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan, a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), and multiple institutions at the University of Illinois. 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JR2KMVED04"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-JR2KMVED04');
+</script>
