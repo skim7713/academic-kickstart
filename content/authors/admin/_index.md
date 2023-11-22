@@ -73,9 +73,10 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Lecturer and Assistant Director of the Data Analytics and Policy Program at Johns Hopkins University. My research interests focus on [authoritarian nostalgia](https://www.sanghoonkim.org/publication/dissertation/bookproject/) and related political behavior in post-authoritarian democracies. My regional focus is on South Korea and other Asian democracies. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. My research has appeared in *Party Politics*, *Journal of East Asian Studies*, _International Journal of Press/Politics_, *Social Science Quarterly*, and _International Studies Quarterly_.
+I am a Senior Lecturer and Assistant Director of the Data Analytics and Policy Program and a Faculty Affiliate at the SNF Agora Institute at Johns Hopkins University. My research interests focus on [authoritarian nostalgia](https://www.sanghoonkim.org/publication/dissertation/bookproject/) and related political behavior in post-authoritarian democracies. My regional focus is on South Korea and other Asian democracies. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. My research has appeared in *Party Politics*, *Journal of East Asian Studies*, _International Journal of Press/Politics_, *Social Science Quarterly*, and _International Studies Quarterly_.
  
-My research has received support from various sources, including a Faculty Grant Award from the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University, a [Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan, a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), and multiple institutions at the University of Illinois. I am currently a Faculty Affiliate at the SNF Agora Institute at Johns Hopkins University. 
+My research has received support from various sources, including a Faculty Grant Award from the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University, a [Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan, a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), and multiple institutions at the University of Illinois. 
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JR2KMVED04"></script>
