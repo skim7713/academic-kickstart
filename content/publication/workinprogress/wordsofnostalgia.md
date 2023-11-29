@@ -1,12 +1,12 @@
 ---
-title: "Measuring Nostalgia Rhetoric Using Social Media Data"
+title: "Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach"
 collection: Research
 authors: 
 - admin
 - Emily Sallenback
 permalink: /research/wordsofnostalgia
 excerpt: ''
-date: "2023-01-09"
+date: "2023-06-09"
 show_date: "false"
 categories: "Working"
 
