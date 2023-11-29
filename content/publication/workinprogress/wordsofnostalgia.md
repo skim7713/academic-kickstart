@@ -12,7 +12,7 @@ categories: "Working"
 
 paperurl: 
 citation:
-publication: "Under Review"
+publication: "R&R"
 publication_types: 
 
 ---
