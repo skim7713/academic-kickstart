@@ -13,7 +13,7 @@ categories: "EastAsia"
 
 paperurl: 
 citation:
-publication: "*World Development* (Accepted)"
+publication: "*World Development* (Forthcoming)"
 publication_types: ['3']
 
 paperurl: 
