@@ -268,7 +268,7 @@ plugins_scss = ["widgets","contents"]
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "G-JR2KMVED04"
   google_tag_manager = ""
 
 ############################
