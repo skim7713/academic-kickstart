@@ -6,7 +6,7 @@ authors:
 - Yujeong Yang
 - Shuyuan Shen
 - Do-Young Gong
-permalink: /workinprogress/acp2
+permalink: /EastAsia/acp2
 excerpt: ''
 date: 2024-02-17
 categories: "EastAsia"
