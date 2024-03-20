@@ -25,4 +25,4 @@ How do we measure nostalgic sentiment for former dictatorships among voters in n
 <figcaption align = "center"><b>Comparing general sentiment across nostalgic and non-nostalgic accounts</b></figcaption>
 </figure>
 
-[Link to poster (presented at PolMeth 2022)](http://www.sanghoonkim.org/files/polmeth_poster.pdf)
+
