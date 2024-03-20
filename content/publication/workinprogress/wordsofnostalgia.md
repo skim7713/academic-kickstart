@@ -6,13 +6,13 @@ authors:
 - Emily Sallenback
 permalink: /research/wordsofnostalgia
 excerpt: ''
-date: "2023-06-09"
-show_date: "false"
-categories: "Working"
+date: "2024-03-20"
+show_date: "true"
+categories: "Research"
 
 paperurl: 
 citation:
-publication: "R&R"
+publication: "*Democratization*"
 publication_types: 
 
 ---
