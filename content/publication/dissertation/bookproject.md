@@ -33,12 +33,3 @@ My book further explains why such nostalgic voter behavior is more pronounced in
 This research is funded by the SNF Agora Institute at Johns Hopkins University, the Taiwan Fellowship from the Taiwanese Ministry of Foreign Affairs, Chiang Ching-kuo Foundation for International Scholarly Exchange, CEAPS Graduate Student Dissertation Travel Grant, Nelle M. Signor Graduate	Scholarship in International Relations, and Ferber & Sudman Dissertation Awards for Survey Research at the University of Illinois at Urbana-Champaign.
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JR2KMVED04"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JR2KMVED04');
-</script>
